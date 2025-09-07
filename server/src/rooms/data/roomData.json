@@ -36,8 +36,8 @@
       "addNoteLinkText": "Add feedback",
       "addNotePrompt": "What feedback do you have about the social space itself?",
       "noteWallDescription": "Social Space Feedback"
-    },
-  },
+    }
+  },  
   "jerseys": {
     "displayName": "Jersey Assignment",
     "shortName": "jersey assignment",
